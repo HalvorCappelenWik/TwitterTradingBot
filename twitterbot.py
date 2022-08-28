@@ -1,17 +1,3 @@
-# Trading Strategy:
-# Want to use Elon Musks tweets on twitter to perfrom seniment analysis.
-# Based on sentiment analysis results we make a trade decision wheater or not to buy TSLA stock. :) 
-# We will only consider tweets where tesla is mentioned. 
-# Positive sentiment = Long
-# Negate sentiment = Short
-# Netural = No position 
-# Will use NLTK for sentiment analysis. 
-
-
-# Dataset:
-# Use kaggle to find dataset containg Elon Musk tweets the from 2012 - 2017. 
-# Pre process dataset using jupyter notebook, use pandas to import into a datafram.
-
 
 #region imports
 from AlgorithmImports import *
