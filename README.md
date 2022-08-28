@@ -3,9 +3,9 @@
 Denne tradingbot-en utfører kjøp og salg av tesla stock basert på Elon Musks sine tweets på twitter! 
 
 Trading Strategy:
-Henter ut dataset som består av Elon musk sine tweets fra perioden 2012 - 2017. (oppdatert versjon med 2010 - 2022)
-Dette datasettet filteres og vi undersøker kun tweets som inneholder "tesla" eller "tsla". 
-For hver eneste tweet utføres en sentiment analyse ved hjelp av NLTK. 
+Henter ut dataset som består av Elon musk sine tweets fra perioden 2012 - 2017. (oppdatert versjon med 2010 - 2022)<br/>
+Dette datasettet filteres og vi undersøker kun tweets som inneholder "tesla" eller "tsla". <br/>
+For hver eneste tweet utføres en sentiment analyse ved hjelp av NLTK. <br/>
 Basert på analysen vil vi enten ta en posisjon i tsla eller ikke. <br/>  <br/>
 Positive sentiment = Long <br/>
 Negate sentiment = Short <br/>
