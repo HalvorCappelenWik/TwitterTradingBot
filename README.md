@@ -12,7 +12,7 @@ Negate sentiment = Short <br/>
 Netural = No position
 
 
-# Results 
+# Backtesting results 
 
 Se logs.txt for hvilke tweets som utløste kjøpsordre! 
 
