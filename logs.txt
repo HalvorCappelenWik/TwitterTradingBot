@@ -1,0 +1,99 @@
+2012-11-01 00:00:00 Launching analysis for f83dd8d766dd4aa02ec00f19cc86827d with LEAN Engine v2.5.0.0.14522
+2012-11-20 21:23:29 Score: -0.7063, Tweet: "mass. judge denies auto dealers' demand to kill our little tesla store. yay
+2012-12-04 06:41:56 Score: 0.8834, Tweet: am happy to report that tesla was narrowly cash flow positive last week. continued improvement expected through year end.
+2012-12-09 10:39:48 Score: 0.5707, Tweet: congrats to @dmetcalf for being the first to drive a tesla model s over 400 miles on a single charge!
+2012-12-11 04:55:30 Score: 0.75, Tweet: tesla was just approved for a full class 1 massachusetts auto sales license by a vote of 4 to 1. much appreciated!
+2012-12-12 19:13:05 Score: -0.7003, Tweet: tesla articles 30 mins apart: this stock is screaming buy {url} and this stock could get destroyed {url}
+2012-12-19 03:21:51 Score: 0.8873, Tweet: thanks! ?@ev: have driven a tesla model s 50 miles now. it's clearly the iphone of cars?by far the best car ever made.
+2012-12-27 02:20:42 Score: 0.5994, Tweet: rt @gigaom: tesla?s solar powered super chargers hit the east coast {url}
+2013-02-11 21:45:06 Score: 0.8932, Tweet: @tomleykis thanks tom! support of real tesla customers like yourself who drive the car every day is v much appreciated.
+2013-02-15 10:06:56 Score: 0.6696, Tweet: rt @benioff: @elonmusk's @teslamotors model s is the best car i have ever owned!
+2013-02-18 05:24:18 Score: 0.765, Tweet: rt @teslaroadtrip: #teslaroadtrip all - thanks so much for following our twitter feed.  the trip was a success and everyone has diverted ...
+2013-03-08 17:17:35 Score: -0.5255, Tweet: minnesota auto dealers tried to pass legislation to block tesla stores. bill was just defeated in senate. thanks mn!
+2013-03-25 20:49:30 Score: 0.5413, Tweet: really exciting @teslamotors announcement coming on thursday. am going to put my money where my mouth is in v major way.
+2013-03-31 02:55:44 Score: 0.6597, Tweet: thanks bob ?@bobmetcalfe: tesla takes on tx dealer's association (ma too) - repeal anti-competitive dealer laws - {url}
+2013-04-01 07:52:03 Score: 0.9468, Tweet: first profitable q for tesla thanks to awesome customers & hard work by a super dedicated team {url}
+2013-04-02 04:02:47 Score: 0.5267, Tweet: rt @edmunds: exclusive: @teslamotors to race in @nascar. @elonmusk's electric sedan will take on the good ol' boys in 2015: {url} ...
+2013-04-02 19:20:41 Score: 0.802, Tweet: certainly true that many people believe that tesla and spacex are powered by the #hhgttg infinite improbability drive :)
+2013-04-02 20:50:11 Score: 0.8481, Tweet: am headed to tx next week to thank people personally for supporting tesla. please head to sb 1659 @ 8am tomorrow #teslatx
+2013-04-03 00:03:15 Score: 0.8555, Tweet: rt @teslamotors: introducing the world's best financing for the world's best car: {url}
+2013-04-03 03:05:53 Score: 0.6249, Tweet: great explanation of the @teslamotors announcement by @techcrunch {url}
+2013-04-08 22:23:02 Score: -0.5267, Tweet: "sarah palin calls tesla a loser. am deeply wounded. {url}  btw
+2013-04-11 05:12:40 Score: 0.5707, Tweet: yay for democracy! @latimes asks: should tesla motors be able to sell directly to consumers? {url}
+2013-04-24 01:43:03 Score: -0.6492, Tweet: "not all good news. virginia dmv commissioner just denied tesla a dealer license
+2013-04-26 21:25:29 Score: 0.7506, Tweet: rt @teslamotors: creating the world?s best service and warranty program {url}
+2013-05-01 20:45:55 Score: 0.6486, Tweet: @realbhuwan @teslamotors cool :)
+2013-05-03 22:01:21 Score: 0.5267, Tweet: tesla raises model s resale value guarantee to highest in auto industry {url}
+2013-05-04 09:38:16 Score: 0.7184, Tweet: @teslatrip you're welcome :)
+2013-05-09 02:55:46 Score: 0.6369, Tweet: "just want to say thanks to customers & investors that took a chance on tesla through the long
+2013-05-09 03:59:49 Score: 0.624, Tweet: @howardreiter totally agree. tesla will circle back and do something cool for roadsters next year.
+2013-10-30 16:48:29 Score: 0.5562, Tweet: tesla west coast supercharger network now energized. travel from vancouver to tijuana in styel! {url}
+2013-11-02 20:57:33 Score: 0.5399, Tweet: thanks woz! @stevewoz: here to pick up my new car! (at @teslamotors w/ 2 others)
+2013-11-19 16:51:48 Score: -0.7506, Tweet: "why does a tesla fire w no injury get more media headlines than 100
+2013-11-19 19:29:45 Score: -0.8271, Tweet: tesla is also extending the model s warranty to cover any fire damage even if due solely to a driver accident
+2013-12-25 22:57:21 Score: 0.5848, Tweet: @bonnienorman @teslamotors @teslamotorsclub merry christmas!
+2014-01-14 20:12:52 Score: 0.6908, Tweet: rt @teslamotors: revenue expected to exceed guidance by 20% in q4 2013 thanks to model s' stellar safety record & winter performance: http:?
+2014-01-26 11:25:58 Score: 0.5106, Tweet: "tesla supercharger network now energized from new york to la
+2014-02-02 16:08:53 Score: -0.68, Tweet: tesla la to ny supercharger rally just completed in 76 hours across northern route in dead of winter thru heavy snow!
+2014-02-07 19:55:59 Score: 0.5106, Tweet: value is holding up tesla car is worth more used than new | mnn - {url}
+2014-02-09 23:37:53 Score: 0.7506, Tweet: tesla v6 software upload coming soon. need to make sure it is awesome - lord business
+2014-03-11 02:48:42 Score: 0.5106, Tweet: rt @teslams60: arrived in #hawthorne completing 7740 mile round trip #coasttocoasttocoast in a @teslamotors #models60 in 9.5 days. for free.
+2014-03-14 08:21:48 Score: 0.8622, Tweet: just discovered a great tesla ad made by 2 recent college grads. i love it! {url}
+2014-03-21 21:00:13 Score: 0.7003, Tweet: rt @teslamotors: consumer groups say manufacturers like tesla should be able to sell directly if they want and buyers would benefit http:?
+2014-05-25 20:13:37 Score: 0.8687, Tweet: prince albert & princess charlene drove a tesla around the track to open @f1 monaco! the honor is much appreciated :) {url}
+2014-11-25 00:54:05 Score: 0.5093, Tweet: welcome back @ricardor to run the @teslamotors communications team!
+2014-12-03 02:49:57 Score: 0.6361, Tweet: rt @teslamotors: new consumer reports owners survey rates model s the most loved car. 98% would buy again. {url}
+2015-01-29 22:42:56 Score: -0.6597, Tweet: tesla dual motor cars are also all-wheel drive. main goal of dual motor was actually insane traction on snow. insane speed was a side effect
+2015-02-24 23:02:45 Score: 0.6369, Tweet: tesla model s rated by @consumerreports as best car in world for 2nd year in a row {url}
+2015-03-18 22:14:43 Score: 0.6696, Tweet: "thanks to everyone that supported tesla in new jersey! we couldn't have done it without you.
+2015-04-01 23:09:07 Score: 0.5859, Tweet: "announcing the amazing tesla model w 
+2015-04-19 18:59:47 Score: 0.6239, Tweet: @andrewket @teslaroadtrip wow!
+2015-04-27 02:36:01 Score: 0.5093, Tweet: rt @deadmau5: here she is! :) @teslamotors {url}
+2015-06-03 02:28:12 Score: 0.7096, Tweet: rt @waitbutwhy: the story of tesla: {url} nothing has every taken any human as long as this took me. good luck. {url}
+2015-06-15 19:23:09 Score: 0.5423, Tweet: spacex/tesla will also do a reference pod to be shown after the @hyperloop competition. bonus for all racing teams that exceed reference.
+2015-06-20 01:12:23 Score: 0.8356, Tweet: tesla service team helps save a stray kitten that took refuge in a model s. nice work guys! {url}
+2015-07-05 18:40:36 Score: 0.5423, Tweet: rt @greencarreports: tesla model s owner loyalty probably unparalleled in industry {url}
+2015-08-20 19:46:29 Score: 0.8126, Tweet: rt @gearpatrol: we've concluded that the p85d is pretty much the best car in the world. {url} #tesla {url}
+2015-08-27 18:11:49 Score: 0.6767, Tweet: rt @consumerreports: breaking: tesla p85d is the best car we?ve tested in 80 years of testing cars #carofthefuture {url} h?
+2015-09-02 05:25:26 Score: 0.6988, Tweet: rt @oprah: test driving my new tesla with dealer dan. love it!! {url}
+2015-10-11 03:36:12 Score: 0.5411, Tweet: some exciting news this week: tesla version 7 software with autopilot goes to wide release on thursday!
+2015-10-15 06:08:15 Score: 0.8402, Tweet: rt @jalopnik: tesla's autopilot system is awesome and creepy and the sign of a beautiful future {url} {url}
+2015-10-22 00:12:28 Score: 0.5859, Tweet: "rt @westcoastbill: amazing ?@cnet: alex roy claims coast-to-coast tesla autopilot record 57 hours
+2015-10-22 00:36:53 Score: 0.5707, Tweet: congrats on driving a tesla from la to ny in just over two days! {url}
+2016-02-10 10:08:55 Score: 0.6369, Tweet: love this tesla video made by {url}
+2016-02-23 23:10:12 Score: 0.5562, Tweet: "rt @leilanimunter: this is a fun car elon! new footage from 1st time i drove @teslamotors model s
+2016-03-01 02:33:23 Score: 0.6249, Tweet: rt @alexisgeo: tesla's model x is mind blowing in how awesome it is -@thestreet @chris_ciaccia #meetmodelx {url}
+2016-03-05 20:33:48 Score: 0.7003, Tweet: @wk057 @teslamotors wasn't done at my request. good hacking is a gift.
+2016-04-09 03:36:20 Score: 0.6808, Tweet: "just wanted to write a note of appreciation for all those who have supported tesla
+2016-04-22 00:23:15 Score: -0.6274, Tweet: rt @hamids: lots of chatter about tesla model x issues?i?ve had none. most amazing car ever! my review: {url} @elonmusk @?
+2016-05-06 12:21:07 Score: 0.7717, Tweet: @hansmikael @teslamotors thank goodness all are ok
+2016-05-06 21:34:16 Score: -0.607, Tweet: rt @ryybuzz: tesla crash flew 82 feet in the air. all 5 passengers exited without help {url} @elonmusk {url}
+2016-05-10 01:43:51 Score: 0.624, Tweet: rt @teslamotors: model x is the most amazing suv on the road @tim_stevens @cnet {url} {url}
+2016-05-19 08:00:37 Score: 0.5191, Tweet: rt @juanmtrejo: guys! why aren't you sharing this? it's awesome sauce! {url} @teslamotors @elonmusk
+2016-06-04 23:02:22 Score: 0.6003, Tweet: good article from @themotleyfool explaining how little incentives have actually contributed to tesla funding {url}
+2016-07-07 15:47:39 Score: -0.8689, Tweet: rt @vanityfair: how the media screwed up the fatal tesla accident {url} {url}
+2016-07-10 19:54:56 Score: 0.6908, Tweet: today is nikola tesla's birthday. i hope he likes what we've done in his name.
+2016-07-10 22:10:44 Score: 0.701, Tweet: kinda. creating a seamlessly integrated tesla battery & solar power product that looks beautiful is the reason {url}
+2016-07-18 00:17:33 Score: 0.6249, Tweet: great rebuttal by a tesla owner to those calling for autopilot to be disabled. was written with zero input from us. {url}
+2016-07-18 05:02:35 Score: 0.7832, Tweet: @bilalnaseer thanks. exactly. some in the press think they're so much smarter than tesla owners that they know better. makes no sense.
+2016-07-21 07:59:40 Score: 0.6249, Tweet: "@danahull jerome is driving tesla semi & doing a great job with his team. at daimler
+2016-07-27 22:11:45 Score: -0.5994, Tweet: rt @thedrive: the war for autonomous driving: 2017 @mercedesbenz e-class vs. 2017 @teslamotors model s {url} {url}
+2016-07-29 07:16:08 Score: 0.6249, Tweet: rt @reuters: tesla gets vote of confidence from a top investor at fidelity {url} {url}
+2016-07-30 01:27:21 Score: 0.6249, Tweet: some good guessing by @jalopnik. the tesla minibus will be built on a model x chassis. people density potential is surprisingly high.
+2016-07-30 18:41:05 Score: 0.8122, Tweet: @sethpascale @teslamotors glad people had a great time!
+2016-09-11 22:31:12 Score: -0.7096, Tweet: rt @techcrunch: tesla autopilot 8.0 uses radar to prevent accidents like the fatal model s crash {url} {url}
+2016-09-14 01:15:09 Score: 0.743, Tweet: "comprehensive study by autolist shows that a tesla retains its value far better than gasoline sedans
+2016-09-16 06:29:01 Score: 0.6249, Tweet: rt @teslamotors: tesla powerpacks to help solve los angeles peak energy demand with world's biggest battery storage project {url}
+2016-09-28 22:05:50 Score: -0.7579, Tweet: @gooddaym something messed up here. tesla policy is equal pricing for all. no discounts ever unless a car is a floor model or was damaged.
+2016-10-10 17:13:16 Score: -0.5859, Tweet: coal-mining ceo: 'tesla is a fraud' {url} via @yahoofinance
+2016-11-04 18:16:43 Score: 0.7845, Tweet: @mrroryreid @mykalsocal @bbc_topgear @teslamotors loving this thread :)
+2016-11-06 23:38:58 Score: 0.7184, Tweet: playing amish paradise in my tesla
+2016-11-09 00:02:10 Score: 0.5719, Tweet: rt @teslamotors: model x wins the golden steering wheel ? {url}
+2016-11-17 23:52:05 Score: 0.7088, Tweet: vote tally shows ~85% of unaffiliated shareholders in favor of the tesla/solarcity merger! thanks for believing.
+2016-11-19 01:22:54 Score: -0.5719, Tweet: rt @techcrunch: watch tesla model s p85d's instant speed avoid a potential rear-end collision {url} by @etherington https?
+2016-11-19 11:39:05 Score: 0.5106, Tweet: @veritasdk @teslamotors that and paint it black will both be uploaded for free as easter (holiday?) eggs
+2016-11-19 11:43:49 Score: 0.5719, Tweet: @itsjasonwhite @teslamotors perfect
+2016-11-22 17:37:00 Score: 0.6124, Tweet: "rt @teslamotors: this island in american samoa now runs on nearly 100% solar energy thanks to 5
+2016-12-22 03:00:57 Score: 0.6808, Tweet: tesla autopilot vision neural net now working well. just need to get a lot of road time to validate in a wide range of environments.
+2016-12-27 23:02:43 Score: -0.5362, Tweet: rt @electrekco: tesla autopilot?s new radar technology predicts an accident caught on dashcam a second later {url} https:?
+2016-12-31 23:31:05 Algorithm Id:(f83dd8d766dd4aa02ec00f19cc86827d) completed in 16.86 seconds at 49k data points per second. Processing total of 823,714 data points.
